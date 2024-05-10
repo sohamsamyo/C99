@@ -1,0 +1,21 @@
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    color: blue;
+    width:100%;
+    background-color:aquamarine;
+    line-height: 3;
+    text-align:center;
+}
+body 
+{
+    background: aqua;
+    text-align:center; 
+}
+#camera
+{
+    width: 500px;
+    height:400px;
+    border:1px solid white;
+}
